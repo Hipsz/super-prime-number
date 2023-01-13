@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         int[] numbersArray = {2,34,52,5,3,83,7,67,193,29};
         System.out.println(Arrays.toString(getSuperPrimeNumbers(numbersArray)));
-        System.out.println("Czesc Aniaa");
+        System.out.println("Czesc Ania");
 
     }
     public static int[] getSuperPrimeNumbers(int[] numbers) {
